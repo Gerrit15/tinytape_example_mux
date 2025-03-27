@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a simple 2:1 multiplexor, selecting between A and B using S0 outputting to F
 
 ## How to test
 
-Explain how to use your project
+Test using perfect inductance
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Use a single LED and some buttons
